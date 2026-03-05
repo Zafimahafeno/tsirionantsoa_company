@@ -8,7 +8,8 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Utilisation de la police Inter -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght%40100..900&display=swap" rel="stylesheet">
-    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9706031308826477"
+     crossorigin="anonymous"></script>
     <style>
         /* Configuration de la police par défaut */
         body {
